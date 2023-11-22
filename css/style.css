@@ -264,7 +264,7 @@ margin-bottom: 15px;
   width: 23%;   /* 25% not BCZ we want to add space right side of elements */
   height:300px;
   background: black; /* why it is defined if below woundn't work then it will be work for backup  */
-  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(/media/asset\ 34.jpeg); 
+  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(../media/asset\ 34.jpeg); 
   background-size: cover;
   position: relative;
   transition: 0.2s ease-out; /* it provide smoothness in changes betwwen like in it showdow */
@@ -278,15 +278,15 @@ color: white;
 line-height: 29px;
 }
 .examples-card:nth-child(2){
-  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(/media/asset\ 35.jpeg); 
+  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(../media/asset\ 35.jpeg); 
   background-size: cover;
 }
 .examples-card:nth-child(3){
-  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(/media/asset\ 36.jpeg); 
+  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(../media/asset\ 36.jpeg); 
   background-size: cover;
 }
 .examples-card:nth-child(4){
-  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(/media/asset\ 37.jpeg); 
+  background:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8) ), url(../media/asset\ 37.jpeg); 
   background-size: cover;
 }
 .examples-card:hover{
