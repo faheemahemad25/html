@@ -198,7 +198,7 @@ color: var(--primary-text-color);
 }
 section.features-section{
   padding: 80px var(--padding-inline-section) 0px; /*  means padding: 80px 20px 0px;  in three value case mid represents for left and right */
-  background-image: url(media/asset\ 32.svg);
+  background-image: url(../media/asset\ 32.svg);
   background-repeat: no-repeat;
   background-position: center;
   border: var(--section-border);
