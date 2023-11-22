@@ -102,7 +102,7 @@ a{
 /* =======================top banner======================= */
 .top-banner {
   background-color:#4FB3D4 ;
-  background-image: url(./media/asset\ 30.png); /* by default backgroun-image's background-size: cover; so it seems zoomed bcz img large and its div small from itself. */
+  background-image: url(../media/asset\ 30.png); /* by default backgroun-image's background-size: cover; so it seems zoomed bcz img large and its div small from itself. */
   background-size: 300px; /* it means only height: ; width original*/
 }
 
